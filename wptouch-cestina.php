@@ -3,7 +3,7 @@
 Plugin Name: WPtouch čeština
 Plugin URI: http://expres-web.cz
 Description: Přeloží plugin WPtouch do češtiny.
-Version: 1.0
+Version: 1.1
 Author: Expres-Web.cz
 Author URI: http://expres-web.cz
 Text Domain: wprc
